@@ -1,4 +1,5 @@
-## We will write a function that can cache the inverse of the created matrix
+## We will write a function that can cache the 
+## inverse of the created matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   ## Initialise the matrix
